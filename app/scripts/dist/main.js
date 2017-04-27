@@ -1,0 +1,1 @@
+console.error("SyntaxError: C:/Users/roya/front_end_dev_book/chattrbox/app/scripts/src/app.js: Unexpected token (18:5) while parsing file: C:\\Users\\roya\\front_end_dev_book\\chattrbox\\app\\scripts\\src\\app.js");
